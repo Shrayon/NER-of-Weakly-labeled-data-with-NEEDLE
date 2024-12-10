@@ -1,0 +1,9 @@
+Label,Precision,Recall,F1-Score,Support
+O,0.99,0.98,0.99,103684
+B-Chemical,0.86,0.94,0.9,5385
+B-Disease,0.79,0.83,0.81,4424
+I-Disease,0.7,0.84,0.76,2424
+I-Chemical,0.77,0.66,0.71,401
+accuracy,0.97,0.85,0.83,116318
+macro avg,0.82,0.85,0.83,116318
+weighted avg,0.97,0.97,0.97,116318
